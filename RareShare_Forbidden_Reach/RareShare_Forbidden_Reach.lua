@@ -22,7 +22,7 @@ RareShare:LoadModule({
         [200610] = {Addon.Loc.Rares[200610], 1, false, false, 73118, 37.0, 31.8},
         [200537] = {Addon.Loc.Rares[200537], 1, false, false, 73095, 26.7, 41.4},
         [200717] = {Addon.Loc.Rares[200717], 1, false, false, 73152, 44.7, 79.1},
-        [200721] = {Addon.Loc.Rares[200717], 1, false, false, 73154, 43.7, 90.7},
+        [200721] = {Addon.Loc.Rares[200721], 1, false, false, 73154, 43.7, 90.7},
         [200579] = {Addon.Loc.Rares[200579], 1, false, false, 73100, 41.3, 14.3},
         [200885] = {Addon.Loc.Rares[200885], 1, false, false, 73222, 61.2, 58.1},
         [201181] = {Addon.Loc.Rares[201181], 1, false, false, 74283, 69.3, 46.2},
