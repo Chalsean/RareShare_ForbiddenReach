@@ -1,8 +1,8 @@
-## Interface: 90205
+## Interface: 100007
 ## Title: Rare Share: |cff33937fForbidden Reach
 ## Notes: The Forbidden Reach extension for the Rare Share addon
 ## Author: Chalsean (Proudmoore)
-## Version: 0.1.0
+## Version: 0.1.1
 ## DefaultState: enabled
 ## Dependencies: RareShare
 
