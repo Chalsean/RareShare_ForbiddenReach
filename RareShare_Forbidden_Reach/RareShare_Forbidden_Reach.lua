@@ -80,8 +80,8 @@ function RareShare:CheckForbiddenReachEvent(inText, inSourceName)
 		end
         
         if Rare == nil then return end
-        --if Rare == nil or QuestID == nil then return end		
-		--if C_QuestLog.IsQuestFlaggedCompleted(QuestID) == true then return end
+        if Rare == nil or QuestID == nil then return end		
+		if C_QuestLog.IsQuestFlaggedCompleted(QuestID) == true then return end
 		
 		Msg = Msg .. Rare .. " (" .. x .. ", " .. y .. ")"
 		

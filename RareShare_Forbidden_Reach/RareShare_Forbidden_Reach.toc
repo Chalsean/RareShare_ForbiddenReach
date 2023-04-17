@@ -2,7 +2,11 @@
 ## Title: Rare Share: |cff33937fForbidden Reach
 ## Notes: The Forbidden Reach extension for the Rare Share addon
 ## Author: Chalsean (Proudmoore)
+<<<<<<< Updated upstream
 ## Version: 0.1.1
+=======
+## Version: 0.1.2
+>>>>>>> Stashed changes
 ## DefaultState: enabled
 ## Dependencies: RareShare
 
@@ -19,6 +23,6 @@ locales\enUS.lua
 ##locales\ruRU.lua
 ##locales\zhCN.lua
 ##locales\zhTW.lua
-##locales\koKR.lua
+locales\koKR.lua
 
 RareShare_Forbidden_Reach.lua

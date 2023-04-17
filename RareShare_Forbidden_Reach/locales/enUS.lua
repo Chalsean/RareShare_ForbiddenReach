@@ -1,6 +1,6 @@
 local AddonName, Addon = ...
 
-if (GetLocale() == "enUS") then
+--if (GetLocale() == "enUS") then
 	Addon.Loc = {
 		Title = "Forbidden Reach",
 		Events = {
@@ -53,4 +53,4 @@ if (GetLocale() == "enUS") then
 			}
 		},
 	}
-end
+--end
